@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @aritraxchatterjee
+- ECE'27 HITK
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on open source projects
